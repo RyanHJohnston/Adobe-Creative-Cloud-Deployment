@@ -1,7 +1,3 @@
-# Photoshop CC
-[Adobe Photoshop](https://www.adobe.com/products/photoshop.html) is a widely-used photo and image editing tool.
-
-
 ## Requirements
 Each Adobe CC PSAppDeploy build requires the following items:
 - \AppDeployToolkit
